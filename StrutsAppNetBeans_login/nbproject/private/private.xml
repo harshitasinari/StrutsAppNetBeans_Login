@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/articles/login/web/login.jsp</file>
+        <file>file:/D:/articles/login/web/WEB-INF/struts-config.xml</file>
+        <file>file:/D:/articles/login/web/success.jsp</file>
+        <file>file:/D:/articles/login/src/java/com/myapp/struts/LoginActionForm.java</file>
+        <file>file:/D:/articles/login/web/failure.jsp</file>
+        <file>file:/D:/articles/login/src/java/com/myapp/struts/LoginAction.java</file>
+    </open-files>
+</project-private>
